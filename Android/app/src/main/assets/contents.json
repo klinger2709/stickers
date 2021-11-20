@@ -192,184 +192,113 @@
       ]
     },
     {
-      "identifier": "2",
-      "name": "Together While Apart",
-      "publisher": "World Health Organization",
-      "tray_image_file": "01.png",
-      "image_data_version": "1",
+      "identifier": "3",
+      "name": "Kater adventures",
+      "publisher": "Sara Aous and Julian Klinger",
+      "tray_image_file": "kater_tray.png",
+      "image_data_version": "2",
       "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
+      "publisher_email": "gaming.julian94@gmail.com",
+      "publisher_website": "https://kater.carrd.co/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "01_SendingLove.webp",
+          "image_file": "kater_sleepy.webp",
           "emojis": [
-            "🥰",
-            "😘",
-            "❤️"
+            "😴",
+            "🥱",
+            "😿️"
           ]
         },
         {
-          "image_file": "02_WellDoThisTogether.webp",
+          "image_file": "kater_typing.webp",
           "emojis": [
-            "✊",
-            "💪",
+            "😸",
+            "💻",
+            "🕹"
+          ]
+        },
+        {
+          "image_file": "kater_wiggle.webp",
+          "emojis": [
+            "😁",
+            "😋",
+            "🤓"
+          ]
+        },
+        {
+          "image_file": "kater_depressy.webp",
+          "emojis": [
+            "☹",
+            "🥺",
+            "😥"
+          ]
+        },
+        {
+          "image_file": "kater_coffee.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "kater_fight.webp",
+          "emojis": [
+            "👊"
+          ]
+        },
+        {
+          "image_file": "kater_problems.webp",
+          "emojis": [
+            "🥺",
+            "🔥"
+          ]
+        },
+        {
+          "image_file": "kater_stare.webp",
+          "emojis": [
+            "👀",
+            "😶"
+          ]
+        },
+        {
+          "image_file": "kater_gimi.webp",
+          "emojis": [
             "🙏"
           ]
         },
         {
-          "image_file": "03_Heart.webp",
+          "image_file": "kater_lewd.webp",
           "emojis": [
-            "❤️",
-            "🥰",
-            "💕"
+            "🍆",
+            "🍑",
+            "🤪"
           ]
         },
         {
-          "image_file": "04_AirHighFive.webp",
+          "image_file": "kater_chips.webp",
           "emojis": [
-            "🖐",
-            "🙌",
-            "✋"
+            "🥫"
           ]
         },
         {
-          "image_file": "05_GroupVideoCalling.webp",
+          "image_file": "kater_sip.webp",
           "emojis": [
-            "📱",
-            "👯",
-            "👋"
+            "🧃",
+            "💁‍"
           ]
         },
         {
-          "image_file": "06_StayConnected.webp",
+          "image_file": "kater_hide.webp",
           "emojis": [
-            "📱",
-            "🙋‍♀",
-            "🙋‍♂"
+            "😑"
           ]
         },
         {
-          "image_file": "07_OK.webp",
+          "image_file": "kater_waiting.webp",
           "emojis": [
-            "👍",
-            "👌",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "08_AreYouOK.webp",
-          "emojis": [
-            "👋",
-            "❓",
-            "📱"
-          ]
-        },
-        {
-          "image_file": "09_StayingHomeMug.webp",
-          "emojis": [
-            "☕",
-            "🍵",
-            "🏠"
-          ]
-        },
-        {
-          "image_file": "10_WorkingFromBed.webp",
-          "emojis": [
-            "👩‍💻",
-            "👨‍💻",
-            "🛏"
-          ]
-        },
-        {
-          "image_file": "11_StayCalm.webp",
-          "emojis": [
-            "🧘♀",
-            "🧘♂",
-            "🤙"
-          ]
-        },
-        {
-          "image_file": "12_Gymnastics.webp",
-          "emojis": [
-            "🤸",
-            "🐩",
-            "💪"
-          ]
-        },
-        {
-          "image_file": "13_DoubleChecking.webp",
-          "emojis": [
-            "📰",
-            "🔎",
-            "🔍"
-          ]
-        },
-        {
-          "image_file": "14_CatOnTheLaptop.webp",
-          "emojis": [
-            "🐈",
-            "🐱",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "15_WorkingFromHomeF.webp",
-          "emojis": [
-            "👩‍💻",
-            "🏠",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "16_WorkingFromHomeM.webp",
-          "emojis": [
-            "👨‍💻",
-            "🏠",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "17_WashingHands.webp",
-          "emojis": [
-            "✋",
-            "💦",
-            "🧼"
-          ]
-        },
-        {
-          "image_file": "18_DontTouchYourFace.webp",
-          "emojis": [
-            "😷",
-            "🤒",
-            "🤧"
-          ]
-        },
-        {
-          "image_file": "19_SocialDistancing.webp",
-          "emojis": [
-            "😷",
-            "🤒",
-            "🏠"
-          ]
-        },
-        {
-          "image_file": "20_SuperheroNurse.webp",
-          "emojis": [
-            "👩‍⚕",
-            "👨‍⚕️",
-            "🩺"
-          ]
-        },
-        {
-          "image_file": "21_YouAreMyHero.webp",
-          "emojis": [
-            "🙏",
-            "🦸‍♀️",
-            "🦸"
+            "🥱"
           ]
         }
       ]
