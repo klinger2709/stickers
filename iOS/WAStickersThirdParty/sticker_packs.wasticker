@@ -4,10 +4,10 @@
     "sticker_packs": [
         {
             "identifier": "3",
-            "name": "Kater adventures",
+            "name": "Kater adventures (animated)",
             "publisher": "Sara Aous and Julian Klinger",
             "tray_image_file": "kater_tray.png",
-            "image_data_version": "2",
+            "image_data_version": "3",
             "avoid_cache": false,
             "publisher_email": "gaming.julian94@gmail.com",
             "publisher_website": "https://kater.carrd.co/",
@@ -109,6 +109,184 @@
                     "image_file": "kater_waiting.webp",
                     "emojis": [
                         "🥱"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "4",
+            "name": "Kater adventures",
+            "publisher": "Sara Aous and Julian Klinger",
+            "tray_image_file": "kater_tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "gaming.julian94@gmail.com",
+            "publisher_website": "https://kater.carrd.co/",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [{
+                    "image_file": "kater_angry.webp",
+                    "emojis": [
+                        "😡",
+                        "😤",
+                        "😠"
+                    ]
+                },
+                {
+                    "image_file": "kater_beg.webp",
+                    "emojis": [
+                        "🥺"
+                    ]
+                },
+                {
+                    "image_file": "kater_burger.webp",
+                    "emojis": [
+                        "🍔"
+                    ]
+                },
+                {
+                    "image_file": "kater_chocomilk.webp",
+                    "emojis": [
+                        "🧃"
+                    ]
+                },
+                {
+                    "image_file": "kater_cola.webp",
+                    "emojis": [
+                        "🧉"
+                    ]
+                },
+                {
+                    "image_file": "kater_comfy.webp",
+                    "emojis": [
+                        "☺️",
+                        "😴"
+                    ]
+                },
+                {
+                    "image_file": "kater_corona.webp",
+                    "emojis": [
+                        "😷",
+                        "🦠"
+                    ]
+                },
+                {
+                    "image_file": "kater_detective.webp",
+                    "emojis": [
+                        "👀",
+                        "🕵️"
+                    ]
+                },
+                {
+                    "image_file": "kater_evil.webp",
+                    "emojis": [
+                        "😈"
+                    ]
+                },
+                {
+                    "image_file": "kater_fresh.webp",
+                    "emojis": [
+                        "🥶"
+                    ]
+                },
+                {
+                    "image_file": "kater_love.webp",
+                    "emojis": [
+                        "♡"
+                    ]
+                },
+                {
+                    "image_file": "kater_nobully.webp",
+                    "emojis": [
+                        "✋"
+                    ]
+                },
+                {
+                    "image_file": "kater_nom.webp",
+                    "emojis": [
+                        "🥣"
+                    ]
+                },
+                {
+                    "image_file": "kater_paws.webp",
+                    "emojis": [
+                        "🧑‍🤝‍🧑"
+                    ]
+                },
+                {
+                    "image_file": "kater_pepsi.webp",
+                    "emojis": [
+                        "🥤"
+                    ]
+                },
+                {
+                    "image_file": "kater_phone.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "kater_poop.webp",
+                    "emojis": [
+                        "💩"
+                    ]
+                },
+                {
+                    "image_file": "kater_shrug.webp",
+                    "emojis": [
+                        "🤷"
+                    ]
+                },
+                {
+                    "image_file": "kater_sip.webp",
+                    "emojis": [
+                        "🥤",
+                        "🧃",
+                        "🧋"
+                    ]
+                },
+                {
+                    "image_file": "kater_sleepy.webp",
+                    "emojis": [
+                        "😴"
+                    ]
+                },
+                {
+                    "image_file": "kater_smart.webp",
+                    "emojis": [
+                        "🤯",
+                        "💡"
+                    ]
+                },
+                {
+                    "image_file": "kater_smol.webp",
+                    "emojis": [
+                        "🤓"
+                    ]
+                },
+                {
+                    "image_file": "kater_weebsout.webp",
+                    "emojis": [
+                        "😶"
+                    ]
+                },
+                {
+                    "image_file": "sara_phone.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "sara_weebsin.webp",
+                    "emojis": [
+                        "🪧"
+                    ]
+                },
+                {
+                    "image_file": "sara_yusbully.webp",
+                    "emojis": [
+                        "🪧"
                     ]
                 }
             ]

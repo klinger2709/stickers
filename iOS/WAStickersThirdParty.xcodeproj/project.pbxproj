@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0E6359A4203E148200805DEB /* StickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6359A3203E148200805DEB /* StickerCell.swift */; };
+		259D6373274AE9ED00E5C3D8 /* static_katermotes in Resources */ = {isa = PBXBuildFile; fileRef = 259D6372274AE9ED00E5C3D8 /* static_katermotes */; };
 		25C579D2274A5AA5004E3055 /* kater_tray.png in Resources */ = {isa = PBXBuildFile; fileRef = 25C579C3274A5AA4004E3055 /* kater_tray.png */; };
 		25C579D3274A5AA5004E3055 /* kater_lewd.webp in Resources */ = {isa = PBXBuildFile; fileRef = 25C579C4274A5AA4004E3055 /* kater_lewd.webp */; };
 		25C579D4274A5AA5004E3055 /* kater_typing.webp in Resources */ = {isa = PBXBuildFile; fileRef = 25C579C5274A5AA5004E3055 /* kater_typing.webp */; };
@@ -70,6 +71,7 @@
 
 /* Begin PBXFileReference section */
 		0E6359A3203E148200805DEB /* StickerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerCell.swift; sourceTree = "<group>"; };
+		259D6372274AE9ED00E5C3D8 /* static_katermotes */ = {isa = PBXFileReference; lastKnownFileType = folder; name = static_katermotes; path = WAStickersThirdParty/static_katermotes; sourceTree = "<group>"; };
 		25C579C3274A5AA4004E3055 /* kater_tray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kater_tray.png; sourceTree = "<group>"; };
 		25C579C4274A5AA4004E3055 /* kater_lewd.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = kater_lewd.webp; sourceTree = "<group>"; };
 		25C579C5274A5AA5004E3055 /* kater_typing.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = kater_typing.webp; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 		8A22EDF71F9A9F40003A7F21 = {
 			isa = PBXGroup;
 			children = (
+				259D6372274AE9ED00E5C3D8 /* static_katermotes */,
 				8A22EE021F9A9F40003A7F21 /* WAStickersThirdParty */,
 				8A22EE011F9A9F40003A7F21 /* Products */,
 				8A40BE481FB100C3003AD704 /* Frameworks */,
@@ -339,6 +342,7 @@
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
 				25C579DB274A5AA5004E3055 /* kater_stare.webp in Resources */,
 				25C579D9274A5AA5004E3055 /* kater_fight.webp in Resources */,
+				259D6373274AE9ED00E5C3D8 /* static_katermotes in Resources */,
 				25C579D5274A5AA5004E3055 /* kater_problems.webp in Resources */,
 				25C579D3274A5AA5004E3055 /* kater_lewd.webp in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
