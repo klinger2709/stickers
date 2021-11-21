@@ -117,16 +117,15 @@
             "identifier": "4",
             "name": "Kater adventures",
             "publisher": "Sara Aous and Julian Klinger",
-            "tray_image_file": "kater_tray.png",
+            "tray_image_file": "static_katermotes/non_animated_tray.png",
             "image_data_version": "1",
             "avoid_cache": false,
             "publisher_email": "gaming.julian94@gmail.com",
             "publisher_website": "https://kater.carrd.co/",
             "privacy_policy_website": "",
             "license_agreement_website": "",
-            "animated_sticker_pack": true,
             "stickers": [{
-                    "image_file": "kater_angry.webp",
+                    "image_file": "static_katermotes/kater_angry.webp",
                     "emojis": [
                         "😡",
                         "😤",
@@ -134,112 +133,112 @@
                     ]
                 },
                 {
-                    "image_file": "kater_beg.webp",
+                    "image_file": "static_katermotes/kater_beg.webp",
                     "emojis": [
                         "🥺"
                     ]
                 },
                 {
-                    "image_file": "kater_burger.webp",
+                    "image_file": "static_katermotes/kater_burger.webp",
                     "emojis": [
                         "🍔"
                     ]
                 },
                 {
-                    "image_file": "kater_chocomilk.webp",
+                    "image_file": "static_katermotes/kater_chocomilk.webp",
                     "emojis": [
                         "🧃"
                     ]
                 },
                 {
-                    "image_file": "kater_cola.webp",
+                    "image_file": "static_katermotes/kater_cola.webp",
                     "emojis": [
                         "🧉"
                     ]
                 },
                 {
-                    "image_file": "kater_comfy.webp",
+                    "image_file": "static_katermotes/kater_comfy.webp",
                     "emojis": [
                         "☺️",
                         "😴"
                     ]
                 },
                 {
-                    "image_file": "kater_corona.webp",
+                    "image_file": "static_katermotes/kater_corona.webp",
                     "emojis": [
                         "😷",
                         "🦠"
                     ]
                 },
                 {
-                    "image_file": "kater_detective.webp",
+                    "image_file": "static_katermotes/kater_detective.webp",
                     "emojis": [
                         "👀",
                         "🕵️"
                     ]
                 },
                 {
-                    "image_file": "kater_evil.webp",
+                    "image_file": "static_katermotes/kater_evil.webp",
                     "emojis": [
                         "😈"
                     ]
                 },
                 {
-                    "image_file": "kater_fresh.webp",
+                    "image_file": "static_katermotes/kater_fresh.webp",
                     "emojis": [
                         "🥶"
                     ]
                 },
                 {
-                    "image_file": "kater_love.webp",
+                    "image_file": "static_katermotes/kater_love.webp",
                     "emojis": [
                         "♡"
                     ]
                 },
                 {
-                    "image_file": "kater_nobully.webp",
+                    "image_file": "static_katermotes/kater_nobully.webp",
                     "emojis": [
                         "✋"
                     ]
                 },
                 {
-                    "image_file": "kater_nom.webp",
+                    "image_file": "static_katermotes/kater_nom.webp",
                     "emojis": [
                         "🥣"
                     ]
                 },
                 {
-                    "image_file": "kater_paws.webp",
+                    "image_file": "static_katermotes/kater_paws.webp",
                     "emojis": [
                         "🧑‍🤝‍🧑"
                     ]
                 },
                 {
-                    "image_file": "kater_pepsi.webp",
+                    "image_file": "static_katermotes/kater_pepsi.webp",
                     "emojis": [
                         "🥤"
                     ]
                 },
                 {
-                    "image_file": "kater_phone.webp",
+                    "image_file": "static_katermotes/kater_phone.webp",
                     "emojis": [
                         "📞"
                     ]
                 },
                 {
-                    "image_file": "kater_poop.webp",
+                    "image_file": "static_katermotes/kater_poop.webp",
                     "emojis": [
                         "💩"
                     ]
                 },
                 {
-                    "image_file": "kater_shrug.webp",
+                    "image_file": "static_katermotes/kater_shrug.webp",
                     "emojis": [
                         "🤷"
                     ]
                 },
                 {
-                    "image_file": "kater_sip.webp",
+                    "image_file": "static_katermotes/kater_sip.webp",
                     "emojis": [
                         "🥤",
                         "🧃",
@@ -247,44 +246,44 @@
                     ]
                 },
                 {
-                    "image_file": "kater_sleepy.webp",
+                    "image_file": "static_katermotes/kater_sleepy.webp",
                     "emojis": [
                         "😴"
                     ]
                 },
                 {
-                    "image_file": "kater_smart.webp",
+                    "image_file": "static_katermotes/kater_smart.webp",
                     "emojis": [
                         "🤯",
                         "💡"
                     ]
                 },
                 {
-                    "image_file": "kater_smol.webp",
+                    "image_file": "static_katermotes/kater_smol.webp",
                     "emojis": [
                         "🤓"
                     ]
                 },
                 {
-                    "image_file": "kater_weebsout.webp",
+                    "image_file": "static_katermotes/kater_weebsout.webp",
                     "emojis": [
                         "😶"
                     ]
                 },
                 {
-                    "image_file": "sara_phone.webp",
+                    "image_file": "static_katermotes/sara_phone.webp",
                     "emojis": [
                         "📞"
                     ]
                 },
                 {
-                    "image_file": "sara_weebsin.webp",
+                    "image_file": "static_katermotes/sara_weebsin.webp",
                     "emojis": [
                         "🪧"
                     ]
                 },
                 {
-                    "image_file": "sara_yusbully.webp",
+                    "image_file": "static_katermotes/sara_yusbully.webp",
                     "emojis": [
                         "🪧"
                     ]
