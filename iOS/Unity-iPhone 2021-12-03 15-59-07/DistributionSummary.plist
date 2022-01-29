@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EasyStep.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>0</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>92F47091CCE768C30330C9357C1893837EDF490F</string>
+				<key>dateExpires</key>
+				<string>12.11.22</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>92F47091CCE768C30330C9357C1893837EDF490F</string>
+						<key>dateExpires</key>
+						<string>12.11.22</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UnityFramework.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>X7ESDF9TTT</string>
+						<key>name</key>
+						<string>m.i.k. IT GmbH</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>armv7s</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>4.5.2</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>92F47091CCE768C30330C9357C1893837EDF490F</string>
+						<key>dateExpires</key>
+						<string>12.11.22</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>opencv2.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>X7ESDF9TTT</string>
+						<key>name</key>
+						<string>m.i.k. IT GmbH</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>4.5.2</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>X7ESDF9TTT.com.mikit.EasyStep</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>X7ESDF9TTT</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>X7ESDF9TTT.com.mikit.EasyStep</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>EasyStep.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>62248047-3298-401c-ad99-ca33125a5860</string>
+				<key>dateExpires</key>
+				<string>20.11.22</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.mikit.EasyStep</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>X7ESDF9TTT</string>
+				<key>name</key>
+				<string>m.i.k. IT GmbH</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
