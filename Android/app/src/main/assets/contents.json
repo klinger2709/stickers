@@ -3,211 +3,14 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "4",
-      "name": "Kater adventures",
-      "publisher": "Sara Aous and Julian Klinger",
-      "tray_image_file": "non_animated_tray.png",
-      "image_data_version": "2",
-      "avoid_cache": false,
-      "publisher_email": "gaming.julian94@gmail.com",
-      "publisher_website": "https://kater.carrd.co/",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [{
-        "image_file": "kater_angry.webp",
-        "emojis": [
-          "ðŸ˜¡",
-          "ðŸ˜¤",
-          "ðŸ˜ "
-        ]
-      },
-        {
-          "image_file": "kater_beg.webp",
-          "emojis": [
-            "ðŸ¥º"
-          ]
-        },
-        {
-          "image_file": "kater_burger.webp",
-          "emojis": [
-            "ðŸ”"
-          ]
-        },
-        {
-          "image_file": "kater_chocomilk.webp",
-          "emojis": [
-            "ðŸ§ƒ"
-          ]
-        },
-        {
-          "image_file": "kater_cola.webp",
-          "emojis": [
-            "ðŸ§‰"
-          ]
-        },
-        {
-          "image_file": "kater_comfy.webp",
-          "emojis": [
-            "â˜ºï¸",
-            "ðŸ˜´"
-          ]
-        },
-        {
-          "image_file": "kater_corona.webp",
-          "emojis": [
-            "ðŸ˜·",
-            "ðŸ¦ "
-          ]
-        },
-        {
-          "image_file": "kater_detective.webp",
-          "emojis": [
-            "ðŸ‘€",
-            "ðŸ•µï¸"
-          ]
-        },
-        {
-          "image_file": "kater_evil.webp",
-          "emojis": [
-            "ðŸ˜ˆ"
-          ]
-        },
-        {
-          "image_file": "kater_fresh.webp",
-          "emojis": [
-            "ðŸ¥¶"
-          ]
-        },
-        {
-          "image_file": "kater_love.webp",
-          "emojis": [
-            "â™¡"
-          ]
-        },
-        {
-          "image_file": "kater_nobully.webp",
-          "emojis": [
-            "âœ‹"
-          ]
-        },
-        {
-          "image_file": "kater_nom.webp",
-          "emojis": [
-            "ðŸ¥£"
-          ]
-        },
-        {
-          "image_file": "kater_paws.webp",
-          "emojis": [
-            "ðŸ§‘â€ðŸ¤â€ðŸ§‘"
-          ]
-        },
-        {
-          "image_file": "kater_pepsi.webp",
-          "emojis": [
-            "ðŸ¥¤"
-          ]
-        },
-        {
-          "image_file": "kater_phone.webp",
-          "emojis": [
-            "ðŸ“ž"
-          ]
-        },
-        {
-          "image_file": "kater_poop.webp",
-          "emojis": [
-            "ðŸ’©"
-          ]
-        },
-        {
-          "image_file": "kater_shrug.webp",
-          "emojis": [
-            "ðŸ¤·"
-          ]
-        },
-        {
-          "image_file": "kater_sip.webp",
-          "emojis": [
-            "ðŸ¥¤",
-            "ðŸ§ƒ",
-            "ðŸ§‹"
-          ]
-        },
-        {
-          "image_file": "kater_sleepy.webp",
-          "emojis": [
-            "ðŸ˜´"
-          ]
-        },
-        {
-          "image_file": "kater_smart.webp",
-          "emojis": [
-            "ðŸ¤¯",
-            "ðŸ’¡"
-          ]
-        },
-        {
-          "image_file": "kater_smol.webp",
-          "emojis": [
-            "ðŸ¤“"
-          ]
-        },
-        {
-          "image_file": "sara_phone.webp",
-          "emojis": [
-            "ðŸ“ž"
-          ]
-        },
-        {
-          "image_file": "sara_yusbully.webp",
-          "emojis": [
-            "ðŸª§"
-          ]
-        },{
-          "image_file": "kater_cookie_christmas.webp",
-          "emojis": [
-            "🎅",
-            "🍪"
-          ]
-        },{
-          "image_file": "kater_orange.webp",
-          "emojis": [
-            "🍊"
-          ]
-        },
-        {
-          "image_file": "kater_pizza.webp",
-          "emojis": [
-            "🍕"
-          ]
-        },{
-          "image_file": "kater_selfie.webp",
-          "emojis": [
-            "🤳"
-          ]
-        },{
-          "image_file": "sara_cola.webp",
-          "emojis": [
-            "🥤"
-          ]
-        },{
-          "image_file": "sara_pepsi.webp",
-          "emojis": [
-            "🥤"
-          ]
-        }
-      ]
-    },
-    {
-      "identifier": "3",
-      "name": "Kater adventures",
+      "identifier": "kater_animated",
+      "name": "Kater adventures (Animated)",
       "publisher": "Sara Aous and Julian Klinger",
       "tray_image_file": "kater_tray.png",
       "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "gaming.julian94@gmail.com",
-      "publisher_website": "https://kater.carrd.co/",
+      "publisher_website": "https://adventures.kater.lol/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated_sticker_pack": true,
@@ -307,6 +110,273 @@
           "image_file": "kater_waiting.webp",
           "emojis": [
             "🥱"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "kater_mood",
+      "name": "Katers adventures (Mood)",
+      "publisher": "Sara Aous and Julian Klinger",
+      "tray_image_file": "non_animated_tray.png",
+      "image_data_version": "2",
+      "avoid_cache": false,
+      "publisher_email": "gaming.julian94@gmail.com",
+      "publisher_website": "https://adventures.kater.lol/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{
+        "image_file": "kater_angry.webp",
+        "emojis": [
+          "ðŸ˜¡",
+          "ðŸ˜¤",
+          "ðŸ˜ "
+        ]
+      },
+        {
+          "image_file": "kater_beg.webp",
+          "emojis": [
+            "ðŸ¥º"
+          ]
+        },
+        {
+          "image_file": "kater_clean.webp",
+          "emojis": [
+            "🧽","🧼"
+          ]
+        },{
+          "image_file": "kater_comfy.webp",
+          "emojis": [
+            "â˜ºï¸",
+            "ðŸ˜´"
+          ]
+        },
+        {
+          "image_file": "kater_corona.webp",
+          "emojis": [
+            "ðŸ˜·",
+            "ðŸ¦ "
+          ]
+        },
+        {
+          "image_file": "kater_cry.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "kater_detective.webp",
+          "emojis": [
+            "ðŸ‘€",
+            "ðŸ•µï¸"
+          ]
+        },
+        {
+          "image_file": "kater_evil.webp",
+          "emojis": [
+            "ðŸ˜ˆ"
+          ]
+        },
+        {
+          "image_file": "kater_love.webp",
+          "emojis": [
+            "â™¡"
+          ]
+        },
+        {
+          "image_file": "kater_heart.webp",
+          "emojis": [
+            "❤"
+          ]
+        },{
+          "image_file": "kater_hug.webp",
+          "emojis": [
+            "❤", "💑"
+          ]
+        },
+        {
+          "image_file": "kater_nobully.webp",
+          "emojis": [
+            "âœ‹"
+          ]
+        },
+        {
+          "image_file": "kater_paws.webp",
+          "emojis": [
+            "ðŸ§‘â€ðŸ¤â€ðŸ§‘"
+          ]
+        },
+        {
+          "image_file": "kater_phone.webp",
+          "emojis": [
+            "ðŸ“ž"
+          ]
+        },
+        {
+          "image_file": "kater_poop.webp",
+          "emojis": [
+            "ðŸ’©"
+          ]
+        },
+        {
+          "image_file": "kater_sad.webp",
+          "emojis": [
+            "☹"
+          ]
+        },{
+          "image_file": "kater_shrug.webp",
+          "emojis": [
+            "ðŸ¤·"
+          ]
+        },
+        {
+          "image_file": "kater_sleepy.webp",
+          "emojis": [
+            "ðŸ˜´"
+          ]
+        },
+        {
+          "image_file": "kater_smart.webp",
+          "emojis": [
+            "ðŸ¤¯",
+            "ðŸ’¡"
+          ]
+        },
+        {
+          "image_file": "kater_smol.webp",
+          "emojis": [
+            "ðŸ¤“"
+          ]
+        },
+        {
+          "image_file": "kater_thumbs_up.webp",
+          "emojis": [
+            "👍"
+          ]
+        },
+        {
+          "image_file": "sara_phone.webp",
+          "emojis": [
+            "ðŸ“ž"
+          ]
+        },
+        {
+          "image_file": "sara_yusbully.webp",
+          "emojis": [
+            "ðŸª§"
+          ]
+        },
+        {
+          "image_file": "kater_selfie.webp",
+          "emojis": [
+            "🤳"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "kater_food",
+      "name": "Katers Adventures (Food)",
+      "publisher": "Sara Aous and Julian Klinger",
+      "tray_image_file": "0_tray_image.png",
+      "image_data_version": "2",
+      "avoid_cache": false,
+      "publisher_email": "gaming.julian94@gmail.com",
+      "publisher_website": "https://adventures.kater.lol/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "kater_burger.webp",
+          "emojis": [
+            "ðŸ”"
+          ]
+        },
+        {
+          "image_file": "kater_chocomilk.webp",
+          "emojis": [
+            "ðŸ§ƒ"
+          ]
+        },
+        {
+          "image_file": "kater_nom.webp",
+          "emojis": [
+            "ðŸ¥£"
+          ]
+        },
+        {
+          "image_file": "kater_cheers.webp",
+          "emojis": [
+            "ðŸ¥¤"
+          ]
+        },
+        {
+          "image_file": "kater_sip.webp",
+          "emojis": [
+            "ðŸ¥¤",
+            "ðŸ§ƒ",
+            "ðŸ§‹"
+          ]
+        },
+        {
+          "image_file": "kater_orange.webp",
+          "emojis": [
+            "🍊"
+          ]
+        },
+        {
+          "image_file": "kater_pizza.webp",
+          "emojis": [
+            "🍕"
+          ]
+        },{
+          "image_file": "sara_conke.webp",
+          "emojis": [
+            "🥤"
+          ]
+        },{
+          "image_file": "sara_sip.webp",
+          "emojis": [
+            "🥤"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "kater_special",
+      "name": "Katers Adventures (Special)",
+      "publisher": "Sara Aous and Julian Klinger",
+      "tray_image_file": "0_tray_image.png",
+      "image_data_version": "2",
+      "avoid_cache": false,
+      "publisher_email": "gaming.julian94@gmail.com",
+      "publisher_website": "https://adventures.kater.lol/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "kater_cookie_christmas.webp",
+          "emojis": [
+            "🎅",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "kater_present_christmas.webp",
+          "emojis": [
+            "🎁"
+          ]
+        },
+        {
+          "image_file": "kater_halloween_vampire.webp",
+          "emojis": [
+            "🧛"
+          ]
+        },
+        {
+          "image_file": "sara_halloween_bat.webp",
+          "emojis": [
+            "🦇"
           ]
         }
       ]
